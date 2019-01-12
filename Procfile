@@ -1,1 +1,1 @@
-worker: ski bot.py
+worker: skibot.py
