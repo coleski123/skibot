@@ -9,6 +9,7 @@ import Config
 import datetime
 import asyncio
 import discord
+import os
 from discord.ext.commands import Bot
 
 #Determine the bots prefix
