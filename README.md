@@ -1,2 +1,0 @@
-# skibot
-Bot for discord

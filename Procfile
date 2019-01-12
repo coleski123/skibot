@@ -1,0 +1,1 @@
+worker: ski bot.py
