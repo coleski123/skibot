@@ -62,4 +62,4 @@ async def support(ctx):
 
 		await bot.say(content="", embed=embed)
     
-bot.run(Config.TOKEN)
+token.client.run(os.getenv('TOKEN'))
